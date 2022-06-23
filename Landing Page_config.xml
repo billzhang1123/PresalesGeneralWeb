@@ -43,7 +43,7 @@
             <rdf:Description>
                <tscDM:files>
                   <rdf:Seq>
-                     <rdf:li xmpDM:name="0" xmpDM:value="Landing Page.mp4"/><rdf:li xmpDM:name="1" xmpDM:value="Landing_Page_First_Frame.png"/><rdf:li xmpDM:name="2" xmpDM:value="Landing_Page_Thumbnails.png"/></rdf:Seq>
+                     <rdf:li xmpDM:name="0" xmpDM:value="https://esppresalesfilestore.blob.core.windows.net/attachment/LandingPage.mp4"/><rdf:li xmpDM:name="1" xmpDM:value="Landing_Page_First_Frame.png"/><rdf:li xmpDM:name="2" xmpDM:value="Landing_Page_Thumbnails.png"/></rdf:Seq>
                </tscDM:files>
             </rdf:Description>
          </tscDM:contentList>
